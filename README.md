@@ -1,24 +1,8 @@
-<h2>📋 Lista de Tarefas Interativa</h2>
-Um projeto de lista de tarefas simples e interativa, construído com React JS e estilizado com Tailwind CSS.
+# React + Vite
 
-<h2>✨ Status do Projeto</h2>
-Em desenvolvimento 🚧
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Este projeto está atualmente em fase de desenvolvimento. Novas funcionalidades e melhorias serão adicionadas continuamente.
+Currently, two official plugins are available:
 
-<h2>🚀 Tecnologias Utilizadas</h2>
-React JS: Uma biblioteca JavaScript para construir interfaces de usuário declarativas e eficientes.
-
-Vite: Uma ferramenta de build frontend rápida e leve, utilizada para configurar o ambiente de desenvolvimento.
-
-Tailwind CSS: Um framework CSS "utility-first" que permite estilizar rapidamente os componentes diretamente no HTML.
-
-<h2>💡 Funcionalidades (Atualmente Planejadas/Implementadas)</h2>
-Adicionar novas tarefas à lista.
-
-Marcar tarefas como concluídas ou incompletas.
-
-Excluir tarefas da lista.
-
-Interface de usuário responsiva e intuitiva.
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
